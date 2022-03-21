@@ -1,2 +1,2 @@
 # frontend_practice
-records fo all fronend practice includes CSS, Bootstrap, MUI.
+records of all frontend practice includes CSS, Bootstrap, MUI.
